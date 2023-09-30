@@ -1,9 +1,5 @@
 # Loan Defaulter Predictor
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Nishint0001/LoanDefaulter_Predictor)
-![GitHub issues](https://img.shields.io/github/issues-raw/Nishint0001/LoanDefaulter_Predictor)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Nishint0001/LoanDefaulter_Predictor)
-
 An open-source project for predicting loan defaulters using machine learning techniques.
 
 ![Loan Defaulter Image](https://img.etimg.com/thumb/width-640,height-480,imgsize-18054,resizemode-75,msid-7582293/wealth/borrow/loan-defaults-banks-can-take-your-cash-from-account/new-section/loan-defaults.jpg)
